@@ -16,6 +16,12 @@ Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı 
 - Proje yönetimi için **Jira**
 - Tasarım için **Figma** kullanılmaya karar verildi.
 
+1. Sprint Sonu Ürün Görselleri 
+<img src="https://r.resimlink.com/GVo2e.jpeg">&nbsp;&nbsp;
+<img src="https://r.resimlink.com/p4W6AhusCQ.jpeg">&nbsp;&nbsp;
+<img src="https://r.resimlink.com/ZnpQOr.jpeg">&nbsp;&nbsp;
+
+
 # Hedef Kitle
 - Evindeki malzemeler ile dünya mutfaklarından yemek yapıp denemek isteyenler.
 
@@ -23,6 +29,7 @@ Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı 
 Sprint içerisinde tamamlanması tahmin edilen puan: 31
 
 **Puan tamamlama**: Sprint taskları Kolay:1 Zor:10 olacak şekilde 1-10 arası puanladık ve 1. sprint için hedef puanımız 31 idi.
+<img src="https://r.resimlink.com/GJfTUw.jpeg">&nbsp;&nbsp;
 
 **Daily scrum:** Daily yi hafiçleri whatsapp üzerinden cumartesi günleri Discord üzerinden gerçekleştirmek üzere konuştuk.
 
