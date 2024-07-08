@@ -21,5 +21,6 @@ Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı 
 Sprint içerisinde tamamlanması tahmin edilen puan: 31
 
 Puan tamamlama: Sprint taskları Kolay:1 Zor:10 olacak şekilde 1-10 arası puanladık ve 1. sprint için hedef puanımız 31 idi.
-Daily scrum: Daily yi hafiçleri whatsapp üzerinden cumartesi günleri Discord üzerinden gerçekleştirmek üzere konuştuk.
+
+*Daily scrum:* Daily yi hafiçleri whatsapp üzerinden cumartesi günleri Discord üzerinden gerçekleştirmek üzere konuştuk.
 
