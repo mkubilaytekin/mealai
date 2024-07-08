@@ -10,17 +10,17 @@ Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı 
 - **Nisa Nur Taş**
 - **İmdat Yaman**
 
-- **1. Sprint notları**
+# 1. Sprint notları
 - Yapay zeka destekli yemek tarifi oluşturma uygulaması yapılmasına karar verildi.
 
-- Backend için Firebase
-- Proje yönetimi için Jira
-- Tasarım için Figma kullanılmaya karar verildi.
+- Backend için **Firebase**
+- Proje yönetimi için **Jira**
+- Tasarım için **Figma** kullanılmaya karar verildi.
 
-*Puanlama*
+# Puanlama
 Sprint içerisinde tamamlanması tahmin edilen puan: 31
 
-Puan tamamlama: Sprint taskları Kolay:1 Zor:10 olacak şekilde 1-10 arası puanladık ve 1. sprint için hedef puanımız 31 idi.
+**Puan tamamlama**: Sprint taskları Kolay:1 Zor:10 olacak şekilde 1-10 arası puanladık ve 1. sprint için hedef puanımız 31 idi.
 
-*Daily scrum:* Daily yi hafiçleri whatsapp üzerinden cumartesi günleri Discord üzerinden gerçekleştirmek üzere konuştuk.
+**Daily scrum:** Daily yi hafiçleri whatsapp üzerinden cumartesi günleri Discord üzerinden gerçekleştirmek üzere konuştuk.
 
