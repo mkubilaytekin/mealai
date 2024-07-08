@@ -16,7 +16,8 @@ Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı 
 - Proje yönetimi için **Jira**
 - Tasarım için **Figma** kullanılmaya karar verildi.
 
-1. Sprint Sonu Ürün Görselleri 
+# 1. Sprint Sonu Ürün Görselleri 
+
 <img src="https://r.resimlink.com/GVo2e.jpeg">&nbsp;&nbsp;
 <img src="https://r.resimlink.com/p4W6AhusCQ.jpeg">&nbsp;&nbsp;
 <img src="https://r.resimlink.com/ZnpQOr.jpeg">&nbsp;&nbsp;
