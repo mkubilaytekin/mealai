@@ -40,4 +40,5 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 - Uzmanı olmadığımız konular hakkında araştırma yapmamız gerektiği konuşuldu.
 
   
-
+# Sprint Review
+- Kullanıcı için anasayfa oluşturulmuş, anasayfadan gidilen yan ekranlar oluşturulmuş, data modelleri kodlanmış, açılış ekranı oluşturulmuş, yapay zeka uygulamada kullanılmıştır. Firebase ve Statemanagement eksiklikleri değerlendirilmiş kurulum için ön hazırlık yapılmıştır.
