@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:introduction_screen/introduction_screen.dart';
 import 'package:meal_ai/screens/categories.dart';
+import 'package:meal_ai/screens/intro.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
@@ -18,7 +20,7 @@ class _SplashPageState extends State<SplashPage> {
     Future.delayed(const Duration(seconds: 3), () {
       Navigator.pushAndRemoveUntil(
           context,
-          MaterialPageRoute(builder: (context) => const CategoriesScreen()),
+          MaterialPageRoute(builder: (context) => const IntroPage()),
           (route) => false);
     });
   }
