@@ -49,8 +49,8 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 
 # 2.Sprint Sonu Görselleri
 <img src="https://i.hizliresim.com/3qicnhd.jpg">&nbsp;&nbsp;
-<img src="https://hizliresim.com/avvje92">&nbsp;&nbsp;
-<img src="https://hizliresim.com/3qicnhd">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/avvje92.jpg">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/3qicnhd.jpg">&nbsp;&nbsp;
 
 
 
