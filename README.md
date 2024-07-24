@@ -1,5 +1,3 @@
-Nisa
-
 # Meal AI
 **Ürün Özellikleri**
 Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı ülkelerin mutfaklarından tarifler bulabilir evinizdeki malzemelerle birbirinden güzel yemek tarifleri üretebilirsiniz. Aynı zamanda elinizdeki malzemelerin fotoğrafını yükleyerek istediğiniz herhangi bir dünya mutfağından yemek tarifi almanız mümkün.
@@ -46,8 +44,27 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 - Kullanıcı için anasayfa oluşturulmuş, anasayfadan gidilen yan ekranlar oluşturulmuş, data modelleri kodlanmış, açılış ekranı oluşturulmuş, yapay zeka uygulamada kullanılmıştır. Firebase ve Statemanagement eksiklikleri değerlendirilmiş kurulum için ön hazırlık yapılmıştır.
 
 # 2.Sprint Notları 
--Yapay zekaya uygulama içinde prompt verildi 
--Introduction screenler yapılarak uygulamayı tanıtım sayfaları yapilmasina karar verildi 
+- Yapay zekaya uygulama içinde prompt verildi.
+- Introduction screenler yapılarak uygulamayı tanıtım sayfaları yapilmasina karar verildi.
 
 # 2.Sprint Sonu Görselleri
+<img src="https://hizliresim.com/a3oj32j">&nbsp;&nbsp;
+<img src="https://hizliresim.com/avvje92">&nbsp;&nbsp;
+<img src="https://hizliresim.com/3qicnhd">&nbsp;&nbsp;
+
+
+# Puanlama
+- Sprint içinde tamamlanması tahmin edilen puan 9. 
+- Puan tamamlama: sprint tasklari kolay 1 zor 10 şeklinde olacak şekilde 1-10 arası puanladık ve 2. Sprint için hedef puanımız 9'du.
+
+**Daily Scrum:** Daily'i WhatsApp üzerinden yazarak yapmaya karar verdik.
+
+# Sprint Retrospective
+- Görevleri aksatmadan yapılmaya çalışılacak.
+- Ürün geliştirmeye nasıl daha fazla zaman ayırırız konuşuldu.
+
+# Sprint Review
+- Son kullanıcının kullanabildiği fakat henüz veri ve kayıt işlemlerinin eklenmediği bir sonraki sprint'te ekleneceği belirlendi. Firebase ve stata management eksikleri değerlendirilip ön hazırlık yapıldı. Son kullanıcı için introduction screen'ler eklendi
+
+
 
