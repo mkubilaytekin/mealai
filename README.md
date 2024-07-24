@@ -48,11 +48,10 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 - Introduction screenler yapılarak uygulamayı tanıtım sayfaları yapilmasina karar verildi.
 
 # 2.Sprint Sonu Görselleri
-<img src="[https://hizliresim.com/a3oj32j](https://i.hizliresim.com/3qicnhd.jpg)">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/3qicnhd.jpg">&nbsp;&nbsp;
 <img src="https://hizliresim.com/avvje92">&nbsp;&nbsp;
 <img src="https://hizliresim.com/3qicnhd">&nbsp;&nbsp;
 
-!
 
 
 # Puanlama
