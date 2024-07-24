@@ -1,3 +1,5 @@
+Nisa
+
 # Meal AI
 **Ürün Özellikleri**
 Uygulamamız yapay zeka destekli bir yemek tarifi üretme ürünüdür. Farklı ülkelerin mutfaklarından tarifler bulabilir evinizdeki malzemelerle birbirinden güzel yemek tarifleri üretebilirsiniz. Aynı zamanda elinizdeki malzemelerin fotoğrafını yükleyerek istediğiniz herhangi bir dünya mutfağından yemek tarifi almanız mümkün.
@@ -42,3 +44,10 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
   
 # Sprint Review
 - Kullanıcı için anasayfa oluşturulmuş, anasayfadan gidilen yan ekranlar oluşturulmuş, data modelleri kodlanmış, açılış ekranı oluşturulmuş, yapay zeka uygulamada kullanılmıştır. Firebase ve Statemanagement eksiklikleri değerlendirilmiş kurulum için ön hazırlık yapılmıştır.
+
+# 2.Sprint Notları 
+-Yapay zekaya uygulama içinde prompt verildi 
+-Introduction screenler yapılarak uygulamayı tanıtım sayfaları yapilmasina karar verildi 
+
+# 2.Sprint Sonu Görselleri
+
