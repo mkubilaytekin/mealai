@@ -1,13 +1,15 @@
 import 'dart:io';
 import 'dart:typed_data';
-
 import 'package:dash_chat_2/dash_chat_2.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:image_picker/image_picker.dart';
 
 class MealsScreen extends StatefulWidget {
-  const MealsScreen({super.key, required this.title});
+  const MealsScreen({
+    super.key,
+    required this.title,
+  });
 
   final String title;
 
@@ -27,6 +29,7 @@ class _MealsScreenState extends State<MealsScreen> {
     profileImage:
         "https://seeklogo.com/images/G/google-gemini-logo-A5787B2669-seeklogo.com.png",
   );
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -60,7 +63,8 @@ class _MealsScreenState extends State<MealsScreen> {
       messages = [chatMessage, ...messages];
     });
     try {
-      String question = chatMessage.text;
+      String question =
+          "Türkçe olarak ${widget.title} mutfağından bir tarif verin, malzemeler: ${chatMessage.text}";
       List<Uint8List>? images;
       if (chatMessage.medias?.isNotEmpty ?? false) {
         images = [
