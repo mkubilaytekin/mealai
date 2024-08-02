@@ -32,6 +32,7 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 **Puan tamamlama**: Sprint taskları Kolay:1 Zor:10 olacak şekilde 1-10 arası puanladık ve 1. sprint için hedef puanımız 31 idi.
 <img src="https://r.resimlink.com/GJfTUw.jpeg">&nbsp;&nbsp;
 
+
 **Daily scrum:** Daily yi hafiçleri whatsapp üzerinden cumartesi günleri Discord üzerinden gerçekleştirmek üzere konuştuk.
 
 # Sprint Retrospective
@@ -73,13 +74,14 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 - Uygulamanın stabil çalışması için gerekli düzenlemeler yapıldı.
 
 # 3.Sprint Sonu Görselleri
-<img src="https://hizliresim.com/kcw9878">&nbsp;&nbsp;
-<img src="https://hizliresim.com/9txa226">&nbsp;&nbsp;
-<img src="https://hizliresim.com/82oain4">&nbsp;&nbsp;
-<img src="https://hizliresim.com/r8ndhdg">&nbsp;&nbsp;
-<img src="https://hizliresim.com/og61a2q">&nbsp;&nbsp;
-<img src="https://hizliresim.com/o831jb2">&nbsp;&nbsp;
-<img src="https://hizliresim.com/1zaerd1">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/kcw9878.png">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/9txa226.png">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/82oain4.png">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/r8ndhdg.png">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/og61a2q.png">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/o831jb2.png">&nbsp;&nbsp;
+<img src="https://i.hizliresim.com/1zaerd1.png">&nbsp;&nbsp;
+
 
 
 
