@@ -61,11 +61,41 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 **Daily Scrum:** Daily'i WhatsApp üzerinden yazarak yapmaya karar verdik.
 
 # Sprint Retrospective
-- Görevleri aksatmadan yapılmaya çalışılacak.
+- Görevler aksatmadan yapılmaya çalışılacak.
 - Ürün geliştirmeye nasıl daha fazla zaman ayırırız konuşuldu.
 
 # Sprint Review
-- Son kullanıcının kullanabildiği fakat henüz veri ve kayıt işlemlerinin eklenmediği bir sonraki sprint'te ekleneceği belirlendi. Firebase ve stata management eksikleri değerlendirilip ön hazırlık yapıldı. Son kullanıcı için introduction screen'ler eklendi
+- Son kullanıcının kullanabildiği fakat henüz veri ve kayıt işlemlerinin eklenmediği bir sonraki sprint'te ekleneceği belirlendi. Firebase ve stata management eksikleri değerlendirilip ön hazırlık yapıldı. Son kullanıcı için introduction screen'ler eklendi.
+
+
+# 3.Sprint Notları 
+- Firebase bağlantısı yapıldı.
+- Uygulamanın stabil çalışması için gerekli düzenlemeler yapıldı.
+
+# 3.Sprint Sonu Görselleri
+<img src="https://hizliresim.com/kcw9878">&nbsp;&nbsp;
+<img src="https://hizliresim.com/9txa226">&nbsp;&nbsp;
+<img src="https://hizliresim.com/82oain4">&nbsp;&nbsp;
+<img src="https://hizliresim.com/r8ndhdg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/og61a2q">&nbsp;&nbsp;
+<img src="https://hizliresim.com/o831jb2">&nbsp;&nbsp;
+<img src="https://hizliresim.com/1zaerd1">&nbsp;&nbsp;
+
+
+
+# Puanlama
+- Sprint içinde tamamlanması tahmin edilen puan 8. 
+- Puan tamamlama: sprint tasklari kolay 1 zor 10 şeklinde olacak şekilde 1-10 arası puanladık ve 3. Sprint için hedef puanımız 8'du.
+
+**Daily Scrum:** Daily scrum toplantıları WhatsApp üzerinden yazılı olarak yapıldı.
+
+# Sprint Retrospective
+- Görevler yetiştirilmeye çalışılacak.
+- Uygulamada eksik kalan kısımlar tartışıldı. 
+
+
+# Sprint Review
+- Yapay zeka promptları eklendi. Son kullanıcının girdi olarak vereceği yemek malzemelerine uygun yemek tarifleri sorunsuz şekilde elde edildi, youtube videosu çekildi.
 
 
 
